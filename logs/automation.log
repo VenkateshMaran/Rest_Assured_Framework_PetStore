@@ -1,0 +1,16 @@
+20:24:59.734 [main] INFO  api.test.UserTests - ****************Creating User*******************
+20:25:10.842 [main] INFO  api.test.UserTests - ****************User is Created*******************
+20:25:10.922 [main] INFO  api.test.UserTests - ****************Reading User Info*******************
+20:25:11.579 [main] INFO  api.test.UserTests - ****************User Info is displayed*******************
+20:25:11.584 [main] INFO  api.test.UserTests - ****************Updating User*******************
+20:25:12.749 [main] INFO  api.test.UserTests - ****************User Updated*******************
+20:25:12.755 [main] INFO  api.test.UserTests - ****************Deleting User*******************
+20:25:13.322 [main] INFO  api.test.UserTests - ****************User Deleted*******************
+22:20:41.483 [main] INFO  api.test.UserTests - ****************Creating User*******************
+22:21:00.952 [main] INFO  api.test.UserTests - ****************User is Created*******************
+22:21:01.046 [main] INFO  api.test.UserTests - ****************Reading User Info*******************
+22:21:01.863 [main] INFO  api.test.UserTests - ****************User Info is displayed*******************
+22:21:01.866 [main] INFO  api.test.UserTests - ****************Updating User*******************
+22:21:03.243 [main] INFO  api.test.UserTests - ****************User Updated*******************
+22:21:03.247 [main] INFO  api.test.UserTests - ****************Deleting User*******************
+22:21:04.015 [main] INFO  api.test.UserTests - ****************User Deleted*******************
